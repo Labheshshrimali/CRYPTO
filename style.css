@@ -1,0 +1,15 @@
+.btn-green {
+    padding: 10px 20px;
+    border: none;
+    color: black;
+    background-color: rgb(127, 224, 48);
+    border-radius: 30px;
+}
+
+.h-600 {
+    min-height: 100vh;
+    
+}
+.card {
+    width: 100%;
+}
